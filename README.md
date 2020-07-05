@@ -11,3 +11,7 @@ Sample website with plenty of files for demos
 ## Deployment
 
 text for local repo stage
+
+text for staging area
+
+text for un-staged area
