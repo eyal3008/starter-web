@@ -19,3 +19,5 @@ text for un-staged area
 more text
 
 more text 1
+
+added text in in master branch for rebasing example
