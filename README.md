@@ -17,3 +17,5 @@ text for staging area
 text for un-staged area
 
 more text
+
+more text 1
