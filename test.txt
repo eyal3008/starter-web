@@ -6,4 +6,4 @@ adding some text in myfeature branch
 
 adding changes in mb before rebasing conflicts
 
-adding conflicting changes in mb
+added changes in bigtrouble branch
