@@ -7,3 +7,5 @@ adding some text in myfeature branch
 adding changes in mb before rebasing conflicts
 
 added changes in bigtrouble branch
+
+more text generated on gitHub UI
