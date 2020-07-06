@@ -21,3 +21,5 @@ more text
 more text 1
 
 added text in in master branch for rebasing example
+
+more changes in myfeature
