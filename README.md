@@ -15,3 +15,5 @@ text for local repo stage
 text for staging area
 
 text for un-staged area
+
+more text
