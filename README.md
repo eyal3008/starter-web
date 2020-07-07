@@ -25,3 +25,5 @@ added text in in master branch for rebasing example
 more changes in myfeature
 
 data after stashing for the updated text file
+
+text for git stash branch

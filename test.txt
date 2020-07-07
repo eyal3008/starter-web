@@ -13,3 +13,5 @@ more text generated on gitHub UI
 providing data befor git stash exection
 
 more teext added befor stashing
+
+updating for multiple stash example
