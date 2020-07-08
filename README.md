@@ -27,3 +27,5 @@ more changes in myfeature
 data after stashing for the updated text file
 
 text for git stash branch
+
+for tagging comparing example
